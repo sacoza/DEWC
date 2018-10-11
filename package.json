@@ -1,0 +1,11 @@
+{
+  "license": "MIT",
+  "main": "../../actRallada.js",
+  "name": "readline-sync",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/anseki/readline-sync.git"
+  },
+  "title": "readlineSync",
+  "version": "1.4.9"
+}
